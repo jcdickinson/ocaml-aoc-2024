@@ -1,0 +1,5 @@
+(executable
+ (public_name learn)
+ (modes byte exe)
+ (name main)
+ (libraries learn sexplib interval_base))

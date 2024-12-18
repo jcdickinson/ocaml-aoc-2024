@@ -1,0 +1,4 @@
+(library
+ (name learn)
+ (libraries core interval_base)
+ (preprocess (pps ppx_deriving.show)))
